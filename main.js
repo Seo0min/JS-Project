@@ -82,7 +82,6 @@ function animation() {
   }
 
   dino.draw();
-  cactus.draw();
 }
 
 animation();
